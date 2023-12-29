@@ -13,7 +13,7 @@ GPTMail Connect is a powerful integration of OpenAI's GPT-3.5 language model and
 ## Getting Started
 
 1. **Installation:**
-   - Clone the repository: `git clone https://github.com/yourusername/GPTMail-Connect.git`
+   - Clone the repository: `git clone https://github.com/rajasami156/GPTMail-Integrator.git`
    - Install dependencies: `pip install -r requirements.txt`
 
 2. **Configuration:**
